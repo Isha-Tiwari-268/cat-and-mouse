@@ -1,6 +1,9 @@
+var cat;
+var mouse;
 
 function preload() {
     //load the images here
+    
 }
 
 function setup(){
@@ -20,7 +23,9 @@ function draw() {
 
 function keyPressed(){
 
-  //For moving and changing animation write code here
+  if(keyCode === LEFT_ARROW){
+
+  }
 
 
 }
